@@ -16,6 +16,7 @@
 
 - 《C++ Primer 中文版（第 5 版）》
 - 《C++ Primer 习题集（第 5 版）》
+- [《C++ 风格指南》](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/)
 
 ## Why?
 
